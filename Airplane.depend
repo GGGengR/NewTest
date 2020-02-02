@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1578022554 source:e:\codeblocks\workspace\airplane\main.cpp
+	<iostream>
+	<fstream>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<ctime>
+
